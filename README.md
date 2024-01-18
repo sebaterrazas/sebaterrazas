@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-🔭 Currently on an academic exchange at [The University of Manchester](https://www.manchester.ac.uk/)
+🔭 Currently on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
+💻 BEng CS & EEE @ [Pontificia Universidad Católica](https://www.manchester.ac.uk/) 🇨🇱
+📫 sebaterrazas@uc.cl
+ℹ️ sebaterrazas.github.io
+
+
 
 # About Me
 
@@ -12,7 +17,7 @@ My hobbies are watching/playing football ⚽️ and video games 🎮, and coding
 ## My Skills
 
 ### Languages
-![Programming Skill Tier List](assets/img/programming_skill_tier_list.png)
+![Programming Skill Tier List](programming_skill_tier_list.png)
 Currently learning Rust ⏳
 
 ### Technologies

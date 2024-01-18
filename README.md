@@ -3,7 +3,7 @@
 - 🔭 Currently on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
 - 💻 BEng CS & EEE @ [Pontificia Universidad Católica](https://www.manchester.ac.uk/) 🇨🇱
 - 📫 sebaterrazas@uc.cl
-- ℹ️ For more info (like my portfolio) pet my dog [![Westie](westie-drawing.png) info](sebaterrazas.github.io)
+- ℹ️ For more info (like my portfolio) pet my dog [<img src="westie-drawing.png" width="20">](sebaterrazas.github.io)
 
 
 

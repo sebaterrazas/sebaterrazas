@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 Currently on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
-💻 BEng CS & EEE @ [Pontificia Universidad Católica](https://www.manchester.ac.uk/) 🇨🇱
-📫 sebaterrazas@uc.cl
-ℹ️ sebaterrazas.github.io
+- 🔭 Currently on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
+- 💻 BEng CS & EEE @ [Pontificia Universidad Católica](https://www.manchester.ac.uk/) 🇨🇱
+- 📫 sebaterrazas@uc.cl
+- ℹ️ sebaterrazas.github.io
 
 
 

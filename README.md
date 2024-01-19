@@ -5,11 +5,7 @@
 - 📫 sebaterrazas@uc.cl
 - ℹ️ For more info (like my portfolio) pet my dog [<img src="westie-drawing.png" width="20">](https://sebaterrazas.github.io/)
 
-
-
-# About Me
-
-## Who am I?
+## About Me
 As a Brazilian 🇧🇷 born, Chilean 🇨🇱 raised individual, I have always been drawn to challenges and using my skills for problem-solving. This is likely why I have always had a passion for the field of engineering and computer science.
 
 My hobbies are watching/playing football ⚽️ and video games 🎮, and coding 💻. I also enjoy reading books 📚, having read some classics like the Harry Potter series, some Jules Verne novels, and A Game of Thrones.

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌍 Developing [Moai](https://github.com/sebaterrazas/moai), a full-stack web & mobile app that automatically organizes travel photos, turning memories into beautifully curated albums. 
-- 🔭 Currently on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
+- 🛩️ Went on an academic exchange @ [The University of Manchester](https://www.manchester.ac.uk/) 
 - 💻 BEng CS & EEE @ [Pontificia Universidad Católica](https://www.manchester.ac.uk/) 🇨🇱
 - 📫 sebaterrazas@uc.cl
 - ℹ️ For more info (like my portfolio) pet my dog [<img src="westie-drawing.png" width="20">](https://sebaterrazas.github.io/)
